@@ -1,6 +1,14 @@
-# Harmony Hall Wedding Venue - Sample Test Project
+# Harmony Hall Wedding Venue - Demo Website
+
+[![Deploy to GitHub Pages](https://github.com/kenn-omisol/demo-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/kenn-omisol/demo-website/actions/workflows/deploy.yml)
+
+🌟 **[LIVE DEMO](https://kenn-omisol.github.io/demo-website/)** 🌟
 
 A comprehensive, mobile-responsive wedding venue website showcasing modern web development practices and design principles.
+
+**Additional Demos:**
+- 🎨 [Figma Mockup Sample](https://kenn-omisol.github.io/demo-website/figma-mockup-sample.html) - Local Business Design
+- 📋 [Job Application Response](https://kenn-omisol.github.io/demo-website/job-application-response.md) - SEO & Technical Documentation
 
 ## 🎯 Project Overview
 
