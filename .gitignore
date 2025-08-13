@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor
+.vscode/
+.idea/
+.history/
+.cursor/
+
+# Logs and env
+*.log
+.env
+.env.*
+
+# Node/Build (safe defaults)
+node_modules/
+dist/
+build/
+coverage/
+
+# Misc
+*.swp
+**/.DS_Store
+
